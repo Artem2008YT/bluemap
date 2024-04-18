@@ -4,7 +4,7 @@
 
 $driver   = 'mysql'; // 'mysql' (MySQL) or 'pgsql' (PostgreSQL)
 $hostname = '185.9.145.8';
-$port     = 3306;
+$port     = 38161;
 $username = 'root';
 $password = '';
 $database = 'bluemap';
