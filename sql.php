@@ -3,7 +3,7 @@
 // !!! SET YOUR SQL-CONNECTION SETTINGS HERE: !!!
 
 $driver   = 'mysql'; // 'mysql' (MySQL) or 'pgsql' (PostgreSQL)
-$hostname = 'free6.cortexnodes.com';
+$hostname = '185.9.145.8';
 $port     = 3306;
 $username = 'root';
 $password = '';
